@@ -33,6 +33,10 @@
   ![Snake animation](https://github.com/victorandradebr/victorandradebr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ## Veja meu último projeto com pyspark no databricks, manipulando dados de BTC:
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorandradebr&repo=ETL_DATABRICKS_BITCOIN)](https://github.com/victorandradebr/ETL_DATABRICKS_BITCOIN)
+
    
-  ## Veja meu último projeto:
+  ## Veja meu projeto de engenharia de dados:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorandradebr&repo=data_engineer)](https://github.com/victorandradebr/data_engineer)
