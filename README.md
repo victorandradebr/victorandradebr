@@ -22,8 +22,9 @@
   <img align="center" alt="Victor-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Victor-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+  <img align="center" alt="Victor-Databricks" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png">
 </div>
-  
+    
 ##
  
 <div align="center">
