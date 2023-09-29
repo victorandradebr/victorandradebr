@@ -22,6 +22,11 @@
   <img align="center" alt="Victor-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Victor-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+  <img align="center" alt="AWS-S3" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/640px-Amazon-S3-Logo.svg">
+  <img align="center" alt="AWS-Lambda" height="30" width="40" src="https://th.bing.com/th/id/OIP.Krf1B22uGdk-eSBAWrltOQAAAA?pid=ImgDet&rs=1">
+  <img align="center" alt="AWS-Glue" height="30" width="40" src="https://iconape.com/wp-content/png_logo_vector/aws-ec2.png">
+  <img align="center" alt="Databricks" height="30" width="40" src="https://th.bing.com/th/id/OIP.YRYFIfpTQJCMca2_LtSZIAHaFj?w=240&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+  <img align="center" alt="Snowflake" height="30" width="40" src="https://th.bing.com/th/id/OIP.a_KYIt76pTfYmo34_Dj0mwHaHr?pid=ImgDet&rs=1">
 </div>
   
 ##
