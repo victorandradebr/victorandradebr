@@ -1,7 +1,7 @@
 <h1 align="center">
-  Olá, seja bem-vindo ao meu perfil :smiley:
+  Hello, welcome to my profile :smiley:
   
-  Meu nome é Victor Andrade e eu sou um engenheiro de dados em formação!
+  My name is Victor Andrade and I'm a data engineer!
 </h1>
 
 <div align="center">
