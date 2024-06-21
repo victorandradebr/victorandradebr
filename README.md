@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello, welcome to my profile :smiley:
   
-  My name is Victor Andrade and I'm a data engineer!
+  My name is Victor Andrade and I'm a Data Engineer!
 </h1>
 
 <div align="center">
